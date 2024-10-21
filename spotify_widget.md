@@ -1,9 +1,9 @@
 # How to add a Spotify song widget
 
 ## What do you need to know beforehand? 
-I highly recommend Stream Scheme's [*How to SAFELY Use Music On Twitch In 2024*](https://www.youtube.com/watch?v=v8IJJAm5-YQ) before setting any of the widgets below, so 
+I highly recommend Stream Scheme's [*How to SAFELY Use Music On Twitch In 2024*](https://www.youtube.com/watch?v=v8IJJAm5-YQ) before setting any of the widgets below, so you can be educated and safe with your stream. 
 
-[![alt text](https://img.youtube.com/vi/v8IJJAm5-YQ/0.jpg)](https://www.youtube.com/watch?v=v8IJJAm5-YQ)
+[![alt text](https://img.youtube.com/vi/v8IJJAm5-YQ/0.jpg)](https://www.youtube.com/watch?v=v8IJJAm5-YQ{:target="_blank"})
 
 ## What does TempestWrecker Recommend? 
 I have found that setting up and using SoundAlerts' Scenes and Spotify Now Playing Widget has been the easiest and completely free. 
